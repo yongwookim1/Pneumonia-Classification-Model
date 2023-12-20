@@ -14,7 +14,6 @@ Model to classify pneumonia based on chest X-ray data
    └── model_GS.ipynb
    └── model.ipynb
    └── result.ipynb
-   └── Streamlit.ipynb
 ```
 
 ## Dataset
