@@ -10,9 +10,9 @@ Model to classify pneumonia based on chest X-ray data
 ├── notebook
    └── Streamlit.ipynb
    └── final_model.ipynb
+   └── model.ipynb
    └── model_CLAHE.ipynb
    └── model_GS.ipynb
-   └── model.ipynb
    └── result.ipynb
 ```
 
