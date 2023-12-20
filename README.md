@@ -14,6 +14,7 @@ Model to classify pneumonia based on chest X-ray data
    └── model_CLAHE.ipynb
    └── model_GS.ipynb
    └── result.ipynb
+└── README.md
 ```
 
 ## Dataset
