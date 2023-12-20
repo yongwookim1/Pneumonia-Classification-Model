@@ -1,4 +1,4 @@
-# Pneumonia-Classification-Model
+# Pneumonia Classification Model
 
 ## Overview
 
@@ -8,6 +8,7 @@ Model to classify pneumonia based on chest X-ray data
 
 ```
 ├── notebook
+   └── Streamlit.ipynb
    └── final_model.ipynb
    └── model_CLAHE.ipynb
    └── model_GS.ipynb
