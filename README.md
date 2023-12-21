@@ -14,8 +14,13 @@ Model to classify pneumonia based on chest X-ray data
    └── model_CLAHE.ipynb
    └── model_GS.ipynb
    └── result.ipynb
+   └── project_paper.ipynb
 └── README.md
 ```
+## Use case
+
+If a doctor classifies and diagnoses for abnormal findings using the solution before diagnosing a disease by looking at an X-ray of the patient's chest, we think it will help doctor diagnose effectively and reduce diagnostic deviations in underserved areas
+
 
 ## Dataset
 
